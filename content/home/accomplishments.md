@@ -26,11 +26,7 @@ date_format = "Jan 2020"
   certificate_url = "https://www.datafountain.cn/competitions/354"
   date_start = "2019-09-01"
   date_end = "2019-12-14"
-  description = "1 完成了 query 视频和 refer 视频等对应
-              2 对视频进行关键帧提取并进行正则化
-              3 对训练集中的样本进行分析，找到部分参数的先验数据
-              4 找到关键帧对应的原始视频进行相似度匹配和 ORB 匹配二次筛选
-              5 达到了了 F1-score 86 训练集上对应的准确率到达 90%."
+  description = ""
 
 [[item]]
   organization = "kaggle"
@@ -39,9 +35,7 @@ date_format = "Jan 2020"
   url = "https://www.kaggle.com/c/global-wheat-detection"
   date_start = "2020-05-30"
   date_end = ""
-  description = "引入mixup，cutout等数据增强方法增大无偏样本量
-使用伪标签的数据，制作有偏数据并深度调參，控制阈值和插入比例，防止模型过拟合
-对输出结果在测试时做测试时增强（TTA）在训练的时候使用标签平滑减少过拟合"
+  description = ""
   
 [[item]]
   organization = "DataCamp"
