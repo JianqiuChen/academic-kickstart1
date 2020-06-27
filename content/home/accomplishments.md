@@ -25,12 +25,13 @@ date_format = "Jan 2006"
   url = "https://www.datafountain.cn/competitions/354"
   date_start = "2019-09-01"
   date_end = ""
-  description = ""
-  
-              完成了 query 视频和 refer 视频等对应 对视频进行关键帧提取并进行正则化
+  description = """
+               1 完成了 query 视频和 refer 视频等对应 
+               2 对视频进行关键帧提取并进行正则化
                3 对训练集中的样本进行分析，找到部分参数的先验数据
                4 找到关键帧对应的原始视频进行相似度匹配和 ORB 匹配二次筛选
                5 达到了了 F1-score 86 训练集上对应的准确率到达 90%
+  """
              
 
 
