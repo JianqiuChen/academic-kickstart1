@@ -24,7 +24,7 @@ date_format = "Jan 2020"
   title = "视频版权检测   全国总决赛第五"
   url = ""
   date_start = "2018-10-01"
-  date_end = "“
+  date_end = ""
   description = """完成了 query 视频和 refer 视频等对应 对视频进行关键帧提取并进行正则化
 3 对训练集中的样本进行分析，找到部分参数的先验数据
 4 找到关键帧对应的原始视频进行相似度匹配和 ORB 匹配二次筛选
@@ -35,7 +35,7 @@ date_format = "Jan 2020"
   organization_url = "https://www.kaggle.com/c/global-wheat-detection"
   title = "全球小麦检测  TOP5%"
   date_start = "January 2, 2006"
-  date_end = "“
+  date_end = ""
   url = "https://www.kaggle.com/c/global-wheat-detection"
   description = ""
   
