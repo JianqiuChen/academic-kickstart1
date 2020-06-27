@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2020"
+date_format = "Jan 2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -22,7 +22,7 @@ date_format = "Jan 2020"
   organization = "CCF"
   organization_url = "https://www.datafountain.cn/competitions/354"
   title = "视频版权检测   全国总决赛第五"
-  url = ""
+  url = "https://www.datafountain.cn/competitions/354"
   date_start = "2018-10-01"
   date_end = ""
   description = """完成了 query 视频和 refer 视频等对应 对视频进行关键帧提取并进行正则化
