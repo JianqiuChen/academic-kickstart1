@@ -18,21 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Computer Vision
-- Feature representation and fusion
-- fine-Grained Visual Categorization
-
-education:
-  courses:
-  - course: 硕士-人工智能 
-    institution: Uiversity of New South of Wales
-    year: 2021
-  - course: 本科-软件工程
-    institution: 新疆大学
-    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -57,6 +43,21 @@ social:
   icon_pack: ai
   link: files/cv.pdf
 
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
+
+interests:
+- Computer Vision
+- Feature representation and fusion
+- fine-Grained Visual Categorization
+
+education:
+  courses:
+  - course: 硕士-人工智能 
+    institution: Uiversity of New South of Wales
+    year: 2021
+  - course: 本科-软件工程
+    institution: 新疆大学
+    year: 2014
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "ericchenjianqiu@gmail.com"
 
