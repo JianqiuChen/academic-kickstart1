@@ -19,34 +19,33 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "CCF"
-  organization_url = "https://www.datafountain.cn/competitions/354"
-  title = "视频版权检测   全国总决赛第五"
-  url = "https://www.datafountain.cn/competitions/354"
-  date_start = "2019-09-01"
+  organization = "ICBAIE 2020 （IEEE-CS conference）"
+  organization_url = ""
+  title = "Weakly Supervised Learning of Discriminative Features for Fine-Grained Visual Categorization"
+  url = "http://www.icbaie2020.com/"
+  date_start = "2020-03-01"
   date_end = ""
   description = """
-  * 1 完成了 query 视频和 refer 视频等对应
-  * 2 对视频进行关键帧提取并进行正则化
-  * 3 对训练集中的样本进行分析，找到部分参数的先验数据
-  * 4 找到关键帧对应的原始视频进行相似度匹配和 ORB 匹配二次筛选
-  * 5 达到了了 F1-score 86 训练集上对应的准确率到达 90%"""
+  * 1 对特征表达方式做了进一步的优化，采取了不共享的网络结构提取互补特征
+  * 2 实验对比了多种定位方法，根据不同定位方法的“性格”用于各个特征提取的阶段
+  * 3 采取了类激活图指导定位兴趣区域
+  * 4 对融合方法进行改进并引入ranking loss指导模型的收敛
+  * 5 在多个数据集上（stanford car，FGVC-aircraft）精度超过了同类模型"""
              
 
 
 [[item]]
-  organization = "kaggle"
-  organization_url = "https://www.kaggle.com/c/global-wheat-detection"
-  title = "全球小麦检测  TOP5%"
-  date_start = "2020-05-01"
+  organization = "CISCE2020 （IEEE-CS conference）"
+  organization_url = "http://www.iccisce2020.org/"
+  title = "Vehicle Brand Classification Method Based on PCA-NET Under Complex Background"
+  date_start = "2020-01-01"
   date_end = ""
-  url = "https://www.kaggle.com/c/global-wheat-detection"
+  url = "http://www.iccisce2020.org/"
   description = """
-  * 1 引入mixup，cutout，cutmix等数据增强方法增大无偏样本量
-  * 2 使用pix2pix的方法，对图像进行二次着色解决因颜色差异无法区分的问题
-  * 3 使用伪标签的数据，制作有偏数据并深度调參，控制阈值和插入比例，防止模型过拟合
-  * 4 对输出结果在测试时做测试时增强（TTA）在训练的时候使用标签平滑减少过拟合
-  * 5 针对错误样本进行分析，制定优化目标和可行方案
+  * 1. 对图片进行边缘检测
+  * 2. 对车牌可能所在区域进行对称区域查找
+  * 3. 根据先验分析得到不同类型车牌和车的大致比例进行映射
+  * 4. 使用PCA-Net和SVM进行预测
   """
   
 
