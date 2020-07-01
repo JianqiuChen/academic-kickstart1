@@ -9,6 +9,7 @@ view: 2
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "Weakly Supervised Learning of Discriminative Features for Fine-Grained Visual Categorization"
+  caption: ""
   image: ""
 ---
+Weakly Supervised Learning of Discriminative Features for Fine-Grained Visual Categorization
