@@ -25,6 +25,19 @@ subtitle = ""
      name = "All"
      tag = "*"
   
+  [[item]]
+  organization = "kaggle"
+  organization_url = "https://www.kaggle.com/c/global-wheat-detection"
+  title = "全球小麦检测  TOP5%"
+  date_start = "2020-05-01"
+  date_end = ""
+  url = "https://www.kaggle.com/c/global-wheat-detection"
+  description = """
+  *1 引入mixup，cutout等数据增强方法增大无偏样本量
+  *2 使用伪标签的数据，制作有偏数据并深度调參，控制阈值和插入比例，防止模型过拟合
+  *3 对输出结果在测试时做测试时增强（TTA）在训练的时候使用标签平滑减少过拟合
+  """
+  
   # [[content.filter_button]]
   #   name = "Deep Learning"
   #   tag = "Deep Learning"
