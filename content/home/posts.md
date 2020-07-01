@@ -25,7 +25,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "Weakly Supervised Learning of Discriminative Features for Fine-Grained Visual Categorization"
+    tag = "*"
     category = ""
     publication_type = ""
     author = ""
