@@ -8,10 +8,6 @@
   url = "#about"
   weight = 10
 
-[[main]]
-  name = "科研经历"
-  url = "#paper"
-  weight = 20
 
 [[main]]
   name = "实习经历"
@@ -22,7 +18,12 @@
   name = "比赛经历"
   url = "#accomplishments"
   weight = 40
-
+  
+[[main]]
+  name = "科研经历"
+  url = "#paper"
+  weight = 20
+  
 [[main]]
   name = "联系方式"
   url = "#contact"
