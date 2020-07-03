@@ -37,7 +37,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "kaggle"
   organization_url = "https://www.kaggle.com/c/global-wheat-detection"
-  title = "全球小麦检测  TOP5%"
+  title = "全球小麦检测  TOP2%"
   date_start = "2020-05-01"
   date_end = ""
   url = "https://www.kaggle.com/c/global-wheat-detection"
