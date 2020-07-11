@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master Student in Computer Vision
+role: Master Student in AI
 
 # Organizations/Affiliations
 organizations:
