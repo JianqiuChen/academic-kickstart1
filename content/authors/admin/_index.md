@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 陈建秋
+title: Jianqiu Chen
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 计算机视觉方向研究生
+role: Master Student in Computer Vision
 
 # Organizations/Affiliations
 organizations:
@@ -65,7 +65,7 @@ user_groups:
 - Visitors
 ---
 
-Hello:) I am Chen Jianqiu, currently majoring in artificial intelligence at the University of New South Wales in Australia. 
+Hello:) I am Jianqiu Chen, currently majoring in artificial intelligence at the University of New South Wales in Australia. 
 The main interest is computer vision and be prepared to struggle in this direction for a long time. 
 What have I done:
 
@@ -76,6 +76,6 @@ Research：
 
 Competition：
 
-Global Wheat Detect   Kaggle     Team Leader         2020   TOP 1%
+Global Wheat Detect   Kaggle     Team Leader         2020       TOP 1%
 
-Video copyright detection  CCF   Team backbone   2019   TOP   5    
+Video copyright detection  CCF   Team Backbone   2019           TOP   5    
