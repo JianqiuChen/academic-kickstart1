@@ -4,28 +4,28 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "主页"
+  name = "Home"
   url = "#about"
   weight = 10
 
 
 [[main]]
-  name = "实习经历"
+  name = "intern experience"
   url = "#experience"
   weight = 30
 
 [[main]]
-  name = "比赛经历"
+  name = "Competition experience"
   url = "#accomplishments"
   weight = 40
   
 [[main]]
-  name = "科研经历"
+  name = "research experiences"
   url = "#paper"
   weight = 20
   
 [[main]]
-  name = "联系方式"
+  name = "Contact information"
   url = "#contact"
   weight = 60
 
