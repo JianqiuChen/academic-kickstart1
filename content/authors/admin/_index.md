@@ -78,10 +78,4 @@ Competition：
 
 Global Wheat Detect   Kaggle     Team Leader         2020   TOP 1%
 
-Video copyright detection  CCF   Team backbone   2019   TOP   5
-
- 
-
-
-​     
-​     
+Video copyright detection  CCF   Team backbone   2019   TOP   5    
