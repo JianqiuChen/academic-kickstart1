@@ -24,12 +24,11 @@ date_format = "Jan 2006"
   location = "Internship"
   date_start = "2019-11-01"
   date_end = ""
-  description = """Project responsibilities:
-
-\* semantic segmentation model design and API deployment achieve the effect of MIOU 0.82 when the amount of data is small.
-\* data enhancement and cleaning for warehouse samples, and analysis of difficult samples.
-\* cooperate with colleagues in the group to complete 3D semantic mapping
-
+  description = """
+  Project responsibilities:
+* semantic segmentation model design and API deployment achieve the effect of MIOU 0.82 when the amount of data is small.
+* data enhancement and cleaning for warehouse samples, and analysis of difficult samples.
+* cooperate with colleagues in the group to complete 3D semantic mapping
 """
 
 +++
