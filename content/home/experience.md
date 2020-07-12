@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "实习经历"
+title = "Intern Experience"
 subtitle = ""
 
 # Date format for experience
@@ -18,18 +18,18 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "计算机视觉副工程师"
-  company = "顺丰科技"
+  title = "Associate engineer of computer Vision"
+  company = "SF Technology"
   company_url = ""
-  location = "实习"
+  location = "Internship"
   date_start = "2019-11-01"
   date_end = ""
-  description = """
-  项目职责:
-  
-  * 语义分割模型设计与API化部署，在数据量较少的情况下达到了MIOU 0.82的效果
-  * 针对货仓样本进行数据增强和清洗，并对困难样本进行分析
-  * 配合组内同事完成三维语义建图
-  """
+  description = """Project responsibilities:
+
+\* semantic segmentation model design and API deployment achieve the effect of MIOU 0.82 when the amount of data is small.
+\* data enhancement and cleaning for warehouse samples, and analysis of difficult samples.
+\* cooperate with colleagues in the group to complete 3D semantic mapping
+
+"""
 
 +++
