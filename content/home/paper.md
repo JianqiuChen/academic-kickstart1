@@ -26,11 +26,12 @@ date_format = "Jan 2006"
   date_start = "2020-03-01"
   date_end = ""
   description = """
-  * 1 对特征表达方式做了进一步的优化，采取了不共享的网络结构提取互补特征
-  * 2 实验对比了多种定位方法，根据不同定位方法的“性格”用于各个特征提取的阶段
-  * 3 采取了类激活图指导定位兴趣区域
-  * 4 对融合方法进行改进并引入ranking loss指导模型的收敛
-  * 5 在多个数据集上（stanford car，FGVC-aircraft）精度超过了同类模型"""
+* 1 The feature expression is further optimized, and the unshared network structure is adopted to extract complementary features. 
+* 2 Experiments compare a variety of location methods, and apply them to each stage of feature extraction according to the "personality" of different location methods. 
+* 3 Adopt class activation diagram to guide the location of regions of interest. 
+* 4 Improve the fusion method and introduce ranking loss to guide the convergence of the model. 
+* 5 The accuracy of multiple data sets (stanford car,FGVC-aircraft) is better than that of similar models.
+"""
              
 
 
@@ -42,10 +43,10 @@ date_format = "Jan 2006"
   date_end = ""
   url = "http://www.iccisce2020.org/"
   description = """
-  * 1. 对图片进行边缘检测
-  * 2. 对车牌可能所在区域进行对称区域查找
-  * 3. 根据先验分析得到不同类型车牌和车的大致比例进行映射
-  * 4. 使用PCA-Net和SVM进行预测
+* 1. Edge detection of the picture. 
+* 2. Find the symmetrical area where the license plate may be located. 
+* 3. According to the prior analysis, the approximate proportion of different types of license plates and vehicles are mapped. 
+* 4. Using PCA-Net and SVM for forecasting.
   """
   
 
