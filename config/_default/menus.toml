@@ -10,19 +10,19 @@
 
 
 [[main]]
-  name = "intern experience"
+  name = "Intern experience"
   url = "#experience"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Competition experience"
   url = "#accomplishments"
-  weight = 40
+  weight = 30
   
 [[main]]
-  name = "research experiences"
+  name = "Research experience"
   url = "#paper"
-  weight = 20
+  weight = 40
   
 [[main]]
   name = "Contact information"
