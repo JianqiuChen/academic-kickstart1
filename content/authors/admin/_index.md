@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 陈建秋
+title: Jianqiu Chen
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: 计算机视觉方向研究生
+role: Master Student in AI
 
 # Organizations/Affiliations
 organizations:
@@ -65,24 +65,17 @@ user_groups:
 - Visitors
 ---
 
-Hello:) I am Chen Jianqiu, currently majoring in artificial intelligence at the University of New South Wales in Australia. 
+Hello:) I am Jianqiu Chen, currently majoring in artificial intelligence at the University of New South Wales in Australia. 
 The main interest is computer vision and be prepared to struggle in this direction for a long time. 
 What have I done:
 
-​	Research：
+Research：
+1. **Chen,J.**(2020). Weakly Supervised Learning of Discriminative Features for Fine-Grained Visual Categorization.*International Conference on Big Data, Artificial Intelligence and Internet of Things Engineering*.  (In press)
+2. **Chen,J.(2020)**.  Vehicle Brand Classification Method Based on PCA-NET Under Complex Background.  *International Conference on Communications, Information System and Computer Engineering*.  (In press)
+3. Cai,J. Liao,D.**Chen,J.** &Wang,W.(2020). Research on Data Security Protection Method Based on Improved K-means Clustering Algorithm. *International Conference on Big Data Research*.(In press)
 
-    1. **Chen,J.**(2020). Weakly Supervised Learning of Discriminative Features for Fine-Grained Visual Categorization.*International Conference on Big Data, Artificial Intelligence and Internet of Things Engineering*.  (In press)
-    2. **Chen,J.(2020)**.  Vehicle Brand Classification Method Based on PCA-NET Under Complex Background.  *International Conference on Communications, Information System and Computer Engineering*.  (In press)
-    3. Cai,J. Liao,D.**Chen,J.** &Wang,W.(2020). Research on Data Security Protection Method Based on Improved K-means Clustering Algorithm. *International Conference on Big Data Research*.(In press)
+Competition：
 
-   Competition：
+Global Wheat Detect   Kaggle     Team Leader         2020       TOP 1%
 
-Global Wheat Detect   Kaggle     Team Leader         2020   TOP 1%
-
-Video copyright detection  CCF   Team backbone   2019   TOP   5
-
- 
-
-
-​     
-​     
+Video copyright detection  CCF   Team Backbone   2019           TOP   5    
