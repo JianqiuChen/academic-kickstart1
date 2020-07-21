@@ -70,9 +70,11 @@ The main interest is computer vision and be prepared to struggle in this directi
 What have I done:
 
 Research：
-1. **Chen,J.**(2020). Weakly Supervised Learning of Discriminative Features for Fine-Grained Visual Categorization.*International Conference on Big Data, Artificial Intelligence and Internet of Things Engineering*.  (In press)
-2. **Chen,J.(2020)**.  Vehicle Brand Classification Method Based on PCA-NET Under Complex Background.  *International Conference on Communications, Information System and Computer Engineering*.  (In press)
-3. Cai,J. Liao,D.**Chen,J.** &Wang,W.(2020). Research on Data Security Protection Method Based on Improved K-means Clustering Algorithm. *International Conference on Big Data Research*.(In press)
+1. **Chen,J.**(2020). Global wheat detection base one Confident learning.*European Conference on Computer Vision (ECCV) Workshop*(在投)
+2. **Chen,J.**(2020). Image Recognition Technology Based on Neural Network.*IEEE Access*(在投)
+3. **Chen,J.**(2020). Weakly Supervised Learning of Discriminative Features for Fine-Grained Visual Categorization.*International Conference on Big Data, Artificial Intelligence and Internet of Things Engineering*.  (In press)
+4. **Chen,J.(2020)**.  Vehicle Brand Classification Method Based on PCA-NET Under Complex Background.  *International Conference on Communications, Information System and Computer Engineering*.  (In press)
+5. Cai,J. Liao,D.**Chen,J.** &Wang,W.(2020). Research on Data Security Protection Method Based on Improved K-means Clustering Algorithm. *International Conference on Big Data Research*.(In press)
 
 Competition：
 
