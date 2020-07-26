@@ -36,9 +36,9 @@ social:
   link: https://github.com/JianqiuChen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/陈建秋-新南威尔士大学-2021提前批.pdf
+# - icon: cv
+#  icon_pack: ai
+#  link: files/陈建秋-新南威尔士大学-2021提前批.pdf
 
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
