@@ -78,8 +78,8 @@ Research：
 
 Competition：
 
-Global Wheat Detect  &nbsp Kaggle   &nbsp  Team Leader     &nbsp    2020   &nbsp    TOP 1%
+1. Video copyright detection &nbsp CCF &nbsp  Team Backbone &nbsp  2019    &nbsp       TOP   5   
 
-Video copyright detection &nbsp CCF &nbsp  Team Backbone &nbsp  2019    &nbsp       TOP   5   
+2. Global Wheat Detect  &nbsp Kaggle   &nbsp  Team Leader     &nbsp    2020   &nbsp    TOP 1%
 
-Prostate cANcer graDe Assessment (PANDA) Challenge  &nbsp TOP 8%
+3. Prostate cANcer graDe Assessment (PANDA) Challenge  &nbsp TOP 8%
