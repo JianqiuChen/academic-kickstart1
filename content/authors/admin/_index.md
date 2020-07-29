@@ -82,4 +82,4 @@ Competition：
 
 2. Global Wheat Detect  &nbsp    &nbsp  &nbsp   &nbsp &nbsp  &nbsp    2020   &nbsp    TOP 1%
 
-3. Prostate cANcer graDe Assessment (PANDA) Challenge  &nbsp  2020 TOP 8%
+3. Prostate cANcer graDe Assessment (PANDA) Challenge  &nbsp  2020 &nbsp &nbsp TOP 8%
