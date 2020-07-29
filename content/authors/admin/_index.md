@@ -80,6 +80,6 @@ Competition：
 
 1. Video copyright detection &nbsp  &nbsp   &nbsp  2019    &nbsp       TOP   5   
 
-2. Global Wheat Detect  &nbsp    &nbsp  &nbsp    &nbsp    2020   &nbsp    TOP 1%
+2. Global Wheat Detect  &nbsp    &nbsp  &nbsp   &nbsp &nbsp  &nbsp    2020   &nbsp    TOP 1%
 
 3. Prostate cANcer graDe Assessment (PANDA) Challenge  &nbsp  2020 TOP 8%
